@@ -1,0 +1,3 @@
+Name:B.Jyothika
+course:BCA
+GitHub helps to merge ,task and conflicts.
